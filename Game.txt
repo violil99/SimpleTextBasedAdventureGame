@@ -1,0 +1,119 @@
+Eat Me Cake
+@a very small cake, on which the words "EAT ME" were beautifully marked in currants
+@6
+@Grow
+@Drink Me Drink
+@a glass bottle with a paper label that says "DRINK ME" tied around it
+@7
+@Shrink
+@Eat Me Cake
+@a very small cake, on which the words "EAT ME" were beautifully marked in currants
+@6@Grow
+@Drink Me Drink
+@a glass bottle with a paper label that says "DRINK ME" tied around it
+@7@Shrink
+@Eat Me Cake
+@a very small cake, on which the words "EAT ME" were beautifully marked in currants
+@6@Grow
+@Drink Me Drink
+@a glass bottle with a paper label that says "DRINK ME" tied around it
+@7@Shrink
+@Eat Me Cake
+@a very small cake, on which the words "EAT ME" were beautifully marked in currants
+@6@Grow
+@Drink Me Drink
+@a glass bottle with a paper label that says "DRINK ME" tied around it
+@7@Shrink
+@Eat Me Cake
+@a very small cake, on which the words "EAT ME" were beautifully marked in currants
+@6@Grow
+@Drink Me Drink
+@a glass bottle with a paper label that says "DRINK ME" tied around it
+@7@Shrink
+@Eat Me Cake
+@a very small cake, on which the words "EAT ME" were beautifully marked in currants
+@6@Grow
+@Drink Me Drink
+@a glass bottle with a paper label that says "DRINK ME" tied around it
+@7@Shrink
+
+@Jam Tarts@Pink jam tarts@10@None
+@Pocket Watch@A small round pocketwatch with a chain
+@Gloves@a pair of white gloves
+@Fan@a pink folding fan with purple flowers on it
+@Mushroom@A large, spotted mushroom@10@None
+@Hookah@A tiny hookah pipe
+@Hat@A massive hat with two points
+@Key@A single key, too large to fit any of the doors
+
+
+@Great Hall@You are in a large hall, which is lit up by a row of lamps hanging from the roof. There are doors on every wall
+@March Hare's House@A description
+@White Rabbit's House@You are in a small rabbity house
+@Forest@You are in a mossy forest
+@Duchess's House@You are in a small house with flowery wall paper
+@Beautiful Garden@You are in a beautiful garden
+@Safe House@You are in a plain storage room
+@Riverbank@You are on a riverbank, there is a rabbit hole in the ground
+
+
+@There is a rabbit hole
+@You fall down, down, down the rabbit hole
+
+@There is a large blue door
+@You go through a large blue door
+
+@There is a small pink door
+@You go through a small pink door
+
+@There is a tiny door leading to a beautiful garden
+@You go through a tiny door
+
+@There is a large wooden door
+@You go through a large wooden door
+
+    
+@There is a staircase going to the safe room
+@You go up a staircase
+
+@The floor is a made of dark wood
+
+@There is a clear door which opens to a twisty bridge
+@You go through a glass door and over a twisty bridge
+
+
+@There is a small path going around a bend
+@You walk on a small path around a bend
+        
+@There is a tunnel in the floor
+@You go through a tunnel in the floor
+
+@There is a large bland door
+@You go through a large bland door and up a staircase
+
+@There is a large blue door
+@You go through a large blue door
+
+@There is a red door heading toward the forest
+@You go out a red door
+
+@There is a wacky looking house with bunny ears
+@You go up to a wacky looking house with bunny ears
+
+@There is a wide tunnel
+@You go through a wide tunnel
+
+
+
+
+
+
+@The White Rabbit@ is a white rabbit, standing on his hind legs, wearing a lovely waistcoat@Why hello there! Have you seen a pair of gloves and a fan? I'm afraid I've misplaced them!@You just made my day!
+@The Caterpillar@ is small and green@Hi Alice. I've had a terrible day because I can't find my hookah pipe and mushroom stool. 
+Could you please help me find them?@Thanks, you're the best!
+@The Duchess@ is a small, round woman with a large head@Hello little one, have you seen my hat? I have been looking for it all day@Oh thank you, I'm so relieved to have my hat back!
+@The Queen of Hearts@ has piercing eyes, pink hair, and wears a dress covered in hearts@Have you seen the Knave? I'm sure he has my tarts. 
+If I don't get them back, it'll be off with his head!@I guess the knave will live another day
+@The Knave@ is a wiley looking man, handcuffed to the wall@Hi Alice! I've been stuck here for a while. Could you help me find the keys to these handcuffs?@Now I can finally be free!
+
+
