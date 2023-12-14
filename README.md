@@ -1,3 +1,4 @@
+To run this game, compile and run the Game.java file.
 
 My game is a matching game. Each character has one or two game items that they are looking
 for. In order to win the game, the player must match each player with their missing items in order
